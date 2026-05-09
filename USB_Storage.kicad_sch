@@ -3061,6 +3061,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 73.66) (xy 224.79 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32b674f8-401e-4214-a345-32f19bad67cf")
+	)
+	(wire
+		(pts
 			(xy 210.82 21.59) (xy 219.71 21.59)
 		)
 		(stroke
@@ -3201,6 +3211,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 66.04) (xy 224.79 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649ceae8-40d3-4150-8e17-5e5220039b4a")
+	)
+	(wire
+		(pts
 			(xy 153.67 109.22) (xy 161.29 109.22)
 		)
 		(stroke
@@ -3228,6 +3248,16 @@
 			(type default)
 		)
 		(uuid "6aab0ca8-d9a0-4eeb-bc99-545555783e37")
+	)
+	(wire
+		(pts
+			(xy 204.47 71.12) (xy 224.79 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b0ca07f-d1af-42c2-b6fa-9cbdfdc9773c")
 	)
 	(wire
 		(pts
@@ -3331,6 +3361,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 76.2) (xy 224.79 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c8b9b12-71a8-4f79-a521-c03062e07a5a")
+	)
+	(wire
+		(pts
 			(xy 186.69 33.02) (xy 186.69 43.18)
 		)
 		(stroke
@@ -3398,6 +3438,16 @@
 			(type default)
 		)
 		(uuid "a0f7789a-01d5-4c76-8821-6ffe31065ea0")
+	)
+	(wire
+		(pts
+			(xy 204.47 63.5) (xy 224.79 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5cc5766-1adb-498a-8bc2-c1637f16c0f8")
 	)
 	(wire
 		(pts
@@ -3691,6 +3741,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 78.74) (xy 224.79 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f88e6579-b996-4515-83c2-565d5d891072")
+	)
+	(wire
+		(pts
 			(xy 219.71 31.75) (xy 223.52 31.75)
 		)
 		(stroke
@@ -3728,6 +3788,16 @@
 			(justify left bottom)
 		)
 		(uuid "1683784a-643d-440e-9700-a126062dc2c3")
+	)
+	(label "EMMC_CMD"
+		(at 209.55 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22ad209c-bca6-4f95-9ff9-edd03614c5bd")
 	)
 	(label ""
 		(at 58.42 92.71 0)
@@ -3775,6 +3845,36 @@
 			)
 		)
 	)
+	(label "EMMC_D2"
+		(at 209.55 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "343f5483-aca6-43f0-ae42-ea074bc867a9")
+	)
+	(label "EMMC_CLK"
+		(at 209.55 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39efc5ba-05f6-4024-a7c7-756da3417076")
+	)
+	(label "EMMC_D3"
+		(at 209.55 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "68a7843e-e426-4e43-b027-999453808188")
+	)
 	(label "1V2"
 		(at 191.77 35.56 0)
 		(effects
@@ -3784,6 +3884,26 @@
 			(justify left bottom)
 		)
 		(uuid "9b42c496-7bf1-4d47-acdc-cc4e6d6395aa")
+	)
+	(label "EMMC_D1"
+		(at 209.55 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a597ba2e-7502-4a88-b63d-321f18f11664")
+	)
+	(label "EMMC_D0"
+		(at 209.55 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a85e2f9d-bdd0-463a-962d-12f824e42362")
 	)
 	(label "USB_DP_CONN"
 		(at 52.07 97.79 0)

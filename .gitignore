@@ -1,2 +1,4 @@
-*.lck
+.history/
 USB_Storage-backups/
+*.zip
+*.dsn
